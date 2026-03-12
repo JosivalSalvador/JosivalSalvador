@@ -3,7 +3,6 @@
 Sou **Técnico em Informática**, estudante de **Ciência da Computação na UFAM** e **Desenvolvedor Full Stack Web**. Tenho foco em construir sistemas completos e escaláveis, desde a interface até a arquitetura do banco de dados e testes.
 
 **Minhas Habilidades e Tecnologias:**
-
 * **Front-end:** React, Next.js
 * **Back-end & APIs:** Node.js, Fastify, Express, especificações OpenAPI
 * **Linguagens de Programação:** JavaScript/TypeScript, Python, Java, C, C++
@@ -14,7 +13,7 @@ Sou **Técnico em Informática**, estudante de **Ciência da Computação na UFA
 
 **Meus Projetos em Destaque:**
 * **CrocheDaT:** Sistema de e-commerce de crochê desenvolvido do zero (Full Stack).
-* **QualcelAI:** Sistema construído em equipe para resolução de problemas reais.
+* **MotoMatch:** Sistema construído em equipe que utiliza IA e análise de sentimentos para ajudar consumidores a escolher o melhor celular de acordo com o perfil de uso. [Ver projeto no Portfólio do Web Academy](https://webacademy.icomp.ufam.edu.br/portfolio).
 
 **Como me encontrar:**
 * **LinkedIn:** [Em construção - link em breve]
