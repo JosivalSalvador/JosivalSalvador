@@ -12,7 +12,7 @@ Sou **Técnico em Informática**, estudante de **Ciência da Computação na UFA
 * **Outros Conhecimentos:** Fundamentos de Data Science
 
 **Meus Projetos em Destaque:**
-* **CrocheDaT:** Sistema de e-commerce de crochê desenvolvido do zero (Full Stack).
+* **CrocheDaT_2.0:** Sistema de e-commerce de crochê desenvolvido do zero (Full Stack).
 * **MotoMatch:** Sistema construído em equipe que utiliza IA e análise de sentimentos para ajudar consumidores a escolher o melhor celular de acordo com o perfil de uso. [Ver projeto no Portfólio do Web Academy](https://webacademy.icomp.ufam.edu.br/portfolio).
 
 **Como me encontrar:**
