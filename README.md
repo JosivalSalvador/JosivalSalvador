@@ -16,5 +16,5 @@ Sou **Técnico em Informática**, estudante de **Ciência da Computação na UFA
 * **MotoMatch:** Sistema construído em equipe que utiliza IA e análise de sentimentos para ajudar consumidores a escolher o melhor celular de acordo com o perfil de uso. [Ver projeto no Portfólio do Web Academy](https://webacademy.icomp.ufam.edu.br/portfolio).
 
 **Como me encontrar:**
-* **LinkedIn:** [link]https://www.linkedin.com/in/josival-salvador-241b813b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BstUZgMXvT%2Fq8nn2rc%2BOCJA%3D%3D
+* **LinkedIn:** https://www.linkedin.com/in/josival-salvador-241b813b6/
 * **E-mail:**   josivaljunior087@gmail.com
