@@ -17,4 +17,4 @@ Sou **Técnico em Informática**, estudante de **Ciência da Computação na UFA
 
 **Como me encontrar:**
 * **LinkedIn:** [Em construção - link em breve]
-* **E-mail:** [COLOQUE SEU EMAIL AQUI]
+* **E-mail:**   josivaljunior087@gmail.com
